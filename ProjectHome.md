@@ -1,0 +1,1 @@
+Qt Creator is a new cross-platform Qt IDE. It is available as a stand-alone package or in combination with the Qt libraries and development tools as a complete SDK.
